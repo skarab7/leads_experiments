@@ -198,7 +198,7 @@ if __name__ == "__main__":
     result_file_prefix_q1 = "qe_experiments_q1"
     result_file_prefix_q2 = "qe_experiments_q2"
 
-    labels = ["qe2", "qe5", "qe3", "qe2"]
+    labels = ["qe2", "qe5", "qe3", "qe4"]
 
     plot_q1(pcp_data_dir, result_file_prefix_q1, labels)
     plot_q2(pcp_data_dir, result_file_prefix_q2, labels)
